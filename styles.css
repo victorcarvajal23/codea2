@@ -1,0 +1,184 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.menu {
+  background-color: #ed2560;
+  display: block;
+  width: 1440px;
+}
+
+.menu ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  height: 65px;
+}
+.menu ul li {
+  display: inline-block;
+}
+.menu ul li a {
+  text-decoration: none;
+  display: block;
+  color: #fff;
+  padding: 22px;
+  font-family: Poppins;
+  font-size: 14px;
+}
+.menu ul li a:hover {
+  background-color: #e19bb0;
+}
+.logo {
+  height: 162px;
+  width: 245px;
+  position: absolute;
+  margin-top: 10px;
+  margin-left: 60px;
+  border: #ed2560 solid;
+}
+.imagen {
+  height: 530px;
+  width: 1440px;
+}
+.id {
+  float: right;
+}
+.cabecera {
+  font-family: Poppins;
+  background-color: #fff6f9;
+  text-align: end;
+  display: block;
+  padding: 10px;
+  width: 1420px;
+}
+.texto {
+  font-family: Poppins;
+  position: absolute;
+  margin-top: 200px;
+  margin-left: 250px;
+  width: 250px;
+}
+.circulo {
+  height: 30px;
+  width: 30px;
+  background-color: rgba(204, 65, 146, 0.4);
+  border-radius: 50px;
+  position: absolute;
+  margin-top: 50px;
+  margin-left: 570px;
+}
+.servicios {
+  width: 1340px;
+  text-align: center;
+  font-family: Poppins;
+  margin: 50px;
+}
+.servicios h2 {
+  font-size: 30px;
+}
+.servicios p {
+  font-size: 16px;
+}
+
+.tabla {
+  display: block;
+  width: 1440px;
+}
+.tabla ul li {
+  display: inline-block;
+}
+.tabla ul {
+  text-decoration: none;
+  list-style: none;
+  width: 1440px;
+  text-align: center;
+  font-family: Poppins;
+  font-size: 18px;
+}
+.tab {
+  box-shadow: 0px 0px 10px 5px #dddddd;
+  width: 346px;
+  height: 549px;
+  margin: 30px;
+  padding: 20px;
+}
+.img-tab {
+  width: 304px;
+  height: 270px;
+}
+.boton {
+  background-color: #dddddd;
+  text-align: center;
+  border: none;
+  border-radius: 10px;
+  height: 39px;
+  width: 135px;
+  color: #fff;
+  margin: 40px;
+}
+.boton:hover {
+  background-color: #ed2560;
+}
+.tab h3 {
+  margin: 10px;
+  font-size: 18px;
+}
+
+.pie {
+  background-color: #ed2560;
+  width: 1440px;
+  height: 160px;
+  margin-bottom: 50px;
+  margin-top: 80px;
+  color: #fff;
+  font-family: Poppins;
+  box-shadow: 0px 0px 10px 10px #dddddd;
+ 
+  
+}
+.pie ul{
+  list-style: none;
+
+}
+.pie ul li {
+  display: inline-block;
+
+}
+.pie ul li a {
+  text-decoration: none;
+  color: #fff;
+  display: block;
+  text-align: left;
+  margin: 10px;
+}
+.pie h4{
+    margin: 10px;
+}
+.pie p{
+    text-align: center;
+}
+
+.logo-pie {
+  height: 60px;
+  width: 180px;
+  -align: center;
+ 
+}
+.redes{
+ 
+  margin-left: 80px;
+  padding: 0;
+  height: 140px;
+  width: 250px;
+
+}
+.pie ul li a:hover{
+  background-color: #dddddd;
+  color: #ed2560;
+}
+.pie ul li a i{
+  text-align: center;
+  width: 30px;
+  height: 30px;
+}
